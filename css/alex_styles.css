@@ -1,0 +1,8 @@
+/* these are standard styles for the project */
+/* background-color is the pages' blue */
+/* font is universal across pages and already linked on html pages */
+
+class {
+    background-color: #0850f8;
+    font-family: 'Roboto', sans-serif;
+}
