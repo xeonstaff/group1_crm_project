@@ -48,6 +48,49 @@ header li{
     background-color: #0850f8;
 }
 
+/* Solutions Section */
+#displaybubs{
+    display:flex;
+}
+
+.solimg{
+    height:100px;
+    width:100px;
+    border: 1px solid rgba(0, 0, 0, 0.29);
+    border-radius:50px;
+    background-color:#E5F0FE;
+    display:flex;
+    align-items:center;
+}
+
+.solimg2 img{
+    height:120px;
+    width:100px;
+}
+
+.solbubs img{
+    padding:25px;
+    width: 100%;
+    height:85%;
+}
+
+.button_icon{
+    display:flex;
+    justify-content:space-evenly;
+}
+
+.solbut{
+    display:flex;
+    justify-content:space-between;
+    background-color:white;
+    font-size:7px;
+    padding:5px;
+    border-radius:3px;
+    width:120px;
+    border:2px rgba(0, 0, 0, 0.577) solid;
+}
+
+
 /* footer */
 
 footer{
