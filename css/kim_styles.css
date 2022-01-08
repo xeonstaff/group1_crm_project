@@ -2,7 +2,120 @@
 /* background-color is the pages' blue */
 /* font is universal across pages and already linked on html pages */
 
-class {
+/* class { */
+    /* background-color: #0850f8; */
+    /* font-family: 'Roboto', sans-serif; */
+/* } */
+
+
+/* CRM Landing page styling */
+
+.credit-card-guy{
+    border: solid gray 1px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    padding-top: 75px;
+    
+ }
+ .card-blue-3{
     background-color: #0850f8;
-    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: white;
+    border: solid #0850f8 2px;
+   border-top-right-radius: 25px;
+   border-bottom-right-radius: 25px;
+   padding: 60px;
+   
 }
+.card-blue-3 h1{
+    font-size: 173%;
+}
+
+
+
+
+ .guys-list{
+     font-size: 14px;
+    
+     text-align: left;
+ }
+.guys-list h2{
+    font-size:15px;
+}
+
+
+.button-credit{
+    color: white;
+    padding:6px;
+    border:2px solid white;
+    background-color: #0850f8;
+    width: 50%;
+    border-radius: 6px;
+    text-align:center;
+    margin-right: 200%;
+    padding-bottom: 2px;
+    padding-top:1px;
+    font-size:17px;
+    
+     
+}
+
+/* how-it-works cards */
+
+.contianer{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.how-it-works{
+    text-align: center;
+    border: white solid 2px;
+    
+
+
+}
+
+.card-lady{
+    border: solid whitesmoke 3px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    
+}
+
+.card-blue {
+    background-color: #0850f8;
+    text-align: center;
+    color: white;
+    border: solid #0850f8 2px;
+   border-top-right-radius: 25px;
+   border-bottom-right-radius: 25px;
+   padding-top:10%;
+   padding-bottom: 15%;
+
+    
+}
+.card-guy{
+    border:solid white 1px;
+    padding-top: 0px;
+    padding-bottom: 60px;
+    margin-bottom: 24%;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+.card-blue-2{
+    background-color: #0850f8;
+    text-align: center;
+    color: white;
+    border: solid #0850f8 2px;
+   border-top-right-radius: 25px;
+   border-bottom-right-radius: 25px;
+   padding: 10px;
+   margin-bottom: 150px;
+   padding-top: 11%;
+   padding-bottom:5%;
+   margin-bottom: 24%;
+     
+
+    
+}
+
